@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_3" stroke-width="5" stroke="#000000" fill="#FF0000"/>
+  <polygon stroke-width="5" stroke="#000000" points="310,19.30890655517578 331.12396240234375,169.9253692626953 480.8963928222656,143.47239685058594 344.1792907714844,210.10552215576172 415.6197814941406,344.37315368652344 310,234.93821716308594 204.3802261352539,344.37315368652344 275.8207244873047,210.10552215576172 139.1036148071289,143.47239685058594 288.87603759765625,169.9253692626953 310,19.30890655517578 331.12396240234375,169.9253692626953 " strokeWidth="5" strokecolor="#000000" fill="#FF0000" orient="point" r2="35.938219" r="179.691093" point="5" shape="star" id="svg_4" cy="94" cx="231"/>
+  <polygon stroke-width="5" stroke="#000000" points="310,140.5908203125 319.2175598144531,206.3131103515625 384.5715637207031,194.77023315429688 324.914306640625,223.845947265625 356.0877685546875,282.4343566894531 310,234.68182373046875 263.9122314453125,282.4343566894531 295.085693359375,223.845947265625 235.42843627929688,194.77023315429688 300.7824401855469,206.3131103515625 310,140.5908203125 319.2175598144531,206.3131103515625 " strokeWidth="5" strokecolor="#000000" fill="#0000ff" orient="point" r2="15.681837" r="78.409183" point="5" shape="star" id="svg_5" cy="88" cx="230"/>
+  <polygon stroke="#000000" transform="rotate(18.493209838867188 311.95251464843756,219.00000000000003) " stroke-width="5" points="328.13018798828125,219 315.77154541015625,235.03579711914062 295.7748718261719,228.91067504882812 295.7748718261719,209.08932495117188 315.77154541015625,202.96420288085938 328.13018798828125,219 " strokeWidth="5" strokecolor="#000000" fill="#7f00ff" edge="24.037009" orient="x" sides="5" shape="regularPoly" id="svg_6" cy="208" cx="292"/>
+  <ellipse ry="70" rx="69" id="svg_11" cy="87" cx="228" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ff00ff"/>
+  <ellipse ry="30" rx="30" id="svg_13" cy="134" cx="357" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#7f3f00"/>
+  <ellipse ry="43" rx="42" id="svg_14" cy="300" cx="309" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#7fff00"/>
+ </g>
+</svg>
