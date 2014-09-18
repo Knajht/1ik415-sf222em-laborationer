@@ -12,7 +12,46 @@
             <li><a href="laborationer.html">Laborationer</a></li>
             <li><a href="kontakt.html">Kontakt</a></li>
         </ul>
-        <p>Kontakt</p>
+        <p>Detta är ett test av ett kontaktformulär. Du kan alltså INTE nå mig på detta sätt. Det är bara för mitt eget höga nöje. Och för kursen, såklart.</p>
+        
+        <form action="http://voyager.lnu.se/tekinet/kurser/dtt/wp_webbintro/form.php" method="POST">
+            <fieldset>
+                <legend>Ärende</legend>
+
+                    <label for="arendetyp">Ärendetyp</label>
+                    <select id="arendetyp" name="arendetyp">
+                        <option value="business" selected>Business</option>
+                        <option value="pleasure">Pleasure</option>
+                    </select>
+            
+                    <label for="rubrik">Rubrik:</label>
+                    <input type="text" id="rubrik" name="rubrik" />
+
+                    <label for="data">Ärende:</label>
+                    <textarea id="data" name="data" rows="4" cols="50" placeholder="Fyll i ditt ärende här"></textarea>
+            </fieldset>
+            <fieldset>
+                <legend>Din information</legend>
+                    
+                    <label for="namn">Namn:</label>
+                    <input type="text" id= "namn" name="namn" required />
+                    
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" />
+                    
+                    <label for="telefonnr">Telefonnr:</label>
+                    <input type="tel" id="telefonnr" name="telefonnr" />
+                    
+                    <input type="checkbox" name="g1[]" value="telepref" /> Jag föredrar att bli kontaktad via telefon
+                    
+                    <label for="teletid">Vid telefonsamtal vill jag bli kontaktad</label>
+                    <input type="radio" id="teletid" name="teletid" value="1" checked /> På kontorstid (08-16)
+                    <input type="radio" name="teletid" value="2" /> Utanför kontorstid (16-21)
+            
+            </fieldset>
+            
+            <input type="submit" value="Skicka!" />
+        </form>
         
     </body>
     
