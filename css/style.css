@@ -1,40 +1,73 @@
+/*
+Colors:
+Background Main: #869DA5
+Background Container: #657537;
+Background Footer & Header: #7A8D3C
+Background Navigation & Content: #D2D5CE
+Text: #363810
+H1: #D2D5CE
+
+*/
+
+
 #container{
     margin-left: auto;
     margin-right: auto;
     width: 960px;
-    background-color: #AAA;
-
-    
+    background-color: #657537;
 }
 
 #header{
-    background-color: #BBB;
-    padding: 5px;
-    border-radius: 20px;
-
+    background-color: #7A8D3C;
+    color: #D2D5CE;
 }
 
 #navigation{
     float: left;
     width: 20%;
-    background-color: #EEE;
-    border-radius: 20px;
-
+    background-color: #D2D5CE;
 }
 
 #content{
     float: left;
     width: 80%;
-    background-color: #CCC;
-    border-radius: 20px;    
+    background-color: #D2D5CE;
+    
 }
 
 #footer{
     clear: both;
-    background-color: #111;
-    padding: 5px;
-    border-radius: 20px;
+    background-color: #7A8D3C;
+    color: #D2D5CE;
 }
+
+
+body{
+    background-color: #869DA5;
+}
+p {
+    color: #363810;
+}
+
+h1 {
+    color: #D2D5CE;
+}
+h2 {
+    color: #363810;
+}
+h3 {
+    color: #363810;
+}
+
+ul, ol, dl, dt {
+    background-color: #869DA5;
+}
+
+li, dd {
+    background-color: #657537;
+}
+
+
 
 /*p {*/
 /*    color: red;*/
