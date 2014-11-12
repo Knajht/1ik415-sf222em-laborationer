@@ -41,6 +41,27 @@ H1: #D2D5CE
     color: #D2D5CE;
 }
 
+#navigation li{
+    list-style-type: none;
+}
+
+#navigation a{
+    display: block;
+    padding: 5px;
+    background-color: #657537;
+    color: #D2D5CE;
+    text-decoration: none;
+}
+
+#navigation a:hover{
+    background-color: #D2D5CE;
+    color: #657537;
+}
+
+#navigation .active {
+    background-color: #7A8D3C;
+}
+
 
 body{
     background-color: #869DA5;
@@ -68,6 +89,21 @@ li, dd {
 }
 
 
+a:link {
+    
+}
+a:visited {
+    
+}
+a:focus {
+    
+}
+a:hover {
+    
+}
+a:active {
+
+}
 
 /*p {*/
 /*    color: red;*/
