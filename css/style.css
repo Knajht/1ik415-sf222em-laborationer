@@ -65,19 +65,26 @@ H1: #D2D5CE
 
 body{
     background-color: #869DA5;
+    font-family: "Georgia", serif;
 }
 p {
     color: #363810;
+    line-height: 1.5em;
+
 }
 
 h1 {
     color: #D2D5CE;
+    font-family: "Arial", sans-serif;
+    text-align: center;
 }
 h2 {
     color: #363810;
+    font-family: "Arial", sans-serif;
 }
 h3 {
     color: #363810;
+    font-family: "Arial", sans-serif;
 }
 
 ul, ol, dl, dt {
@@ -90,21 +97,19 @@ li, dd {
 
 
 a:link {
-    
+    color: black;
+    text-decoration: underline;
 }
 a:visited {
-    
+    color: #204020;
+    text-decoration: underline;
 }
 a:focus {
-    
+    color: red;
 }
 a:hover {
-    
+    text-decoration: none;
 }
 a:active {
-
+    color: blue;
 }
-
-/*p {*/
-/*    color: red;*/
-/*}*/
